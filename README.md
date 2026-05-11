@@ -21,9 +21,15 @@ Building small, durable tools for people working in the open.
 | [drt-hub/drt](https://github.com/drt-hub/drt) | [#487](https://github.com/drt-hub/drt/pull/487) — Validate connection check | Open |
 | [aaronlab/browsertrace](https://github.com/aaronlab/browsertrace) | [#241](https://github.com/aaronlab/browsertrace/pull/241) — CLI docs | Merged |
 
+## Hire me
+
+**Need a bug fixed?** Open an issue on this repo with the details and your budget. I deliver clean PRs with tests — typical turnaround is 24–48 hours for small/medium fixes. Python, CLI tools, data pipelines, or documentation.
+
+Recent work: [4 PRs to drt](https://github.com/drt-hub/drt/pulls?q=is%3Apr+author%3APhoton101), [browsertrace fix](https://github.com/aaronlab/browsertrace/pull/241), [hubsignal](https://github.com/Photon101/hubsignal).
+
 ## Sponsor this work
 
-If these tools and contributions are useful to you, consider [sponsoring on GitHub](https://github.com/sponsors/Photon101). Sponsorship funds sustained work on open-source tooling, issue triage, and upstream maintenance.
+If these tools and contributions are useful to you, consider [sponsoring on GitHub](https://github.com/sponsors/Photon101). Sponsorship funds sustained work on open-source tooling, issue triage, and upstream maintenance. One-time donations welcome via [PayPal](https://paypal.me/semyingle).
 
 ## Operating principles
 
